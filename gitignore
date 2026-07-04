@@ -1,0 +1,111 @@
+# Generated results
+sdi_ml_results.zip
+sdi_ml_results/
+results/
+outputs/
+figures/
+tables/
+reports/
+artifacts/
+
+# Data files kept outside version control
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.jsonl
+*.sqlite
+*.db
+
+# Model and serialized objects
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.keras
+*.onnx
+*.model
+*.sav
+
+# Archives and compressed files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.7z
+*.rar
+
+# Notebook checkpoints and local Jupyter files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.jupyter/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+secrets/
+private/
+local/
+credentials*.json
+client_secret*.json
+service_account*.json
+token*.json
+*.pem
+*.key
+*.p12
+
+# Google Drive or Colab local folders
+/content/
+drive/
+gdrive/
+MyDrive/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fls
+*.fdb_latexmk
+*.lof
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
